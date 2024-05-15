@@ -31,7 +31,7 @@ class ControllerBeranda extends CI_Controller
         $alternatif_bobot = [
             'AGTK' => 5,
             'PBIO' => 3,
-            // Tambahkan alternatif lain jika diperlukan
+            // Tambahkan alternatif lain jika diperlukan jurusannya
         ];
 
         if ($c5_value === "Agribisnis Perikanan Air Tawar") {
